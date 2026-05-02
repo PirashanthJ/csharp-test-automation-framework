@@ -162,3 +162,9 @@ This is a portfolio project, but contributions and suggestions are welcome.
   - Test data management  
   - Reporting tools (Allure, etc.)  
   - CI quality gates  
+
+## 📸 Example Test Output
+
+Below is a sample representation of how tests are executed and validated across UI, API, and CI/CD layers within this framework.
+
+<img width="1536" height="1024" alt="Example-output" src="https://github.com/user-attachments/assets/28399b26-335b-4dfa-a0cd-4581b31d2b4c" />
